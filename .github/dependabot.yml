@@ -4,6 +4,7 @@
 # https://docs.github.com/code-security/dependabot/dependabot-version-updates/configuration-options-for-the-dependabot.yml-file
 
 version: 2
+
 updates:
   - package-ecosystem: npm
     directory: "/"
@@ -12,10 +13,13 @@ updates:
     cooldown:
       default-days: 7
     labels:
-      - "dependency-updates"
+      - dependency-updates
     versioning-strategy: increase
     allow:
       - dependency-type: all
+    ignore:
+      - dependency-name: brace-expansion
+
 
 #  - package-ecosystem: github-actions
 #    directory: ".github/workflows/"
