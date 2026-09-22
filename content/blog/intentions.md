@@ -3,7 +3,6 @@ title: Setting intentions.
 description: This my first blog post setting what I want to do with the blog.
 date: 2026-09-21
 tags: ["about the blog", "reflections"]
-draft: true
 ---
 
 First and foremost, I want this blog to be something I can truly call my own, I want to be able to understand every piece of it slowly being able to understand how and why this collection of fucking crazy files actually functions. I want to be able to customize every post and every small piece to my liking and to have a creative outlet to be able to do amazing wonderful things. I want something on the internet that is *mine*.
