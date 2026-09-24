@@ -128,6 +128,10 @@ export default async function(eleventyConfig) {
 	// eleventyConfig.setServerPassthroughCopyBehavior("passthrough");
 };
 
+export default function (eleventyConfig) {
+	eleventyConfig.addPlugin(eleventyImageTransformPlugin);
+};
+
 export const config = {
 	// Control which files Eleventy will process
 	// e.g.: *.md, *.njk, *.html, *.liquid
