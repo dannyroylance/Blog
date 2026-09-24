@@ -6,7 +6,7 @@ const eleventyNavigation = {
 ---
 # About
 
-<img src="./blog/images/ProfessionalHeadshot.png", alt="image of me professionally shot", style="width: 50%; height: auto;">
+<img src="./blog/images/ProfessionalHeadshot.png", alt="image of me professionally shot">
 
 Hello all! If you're reading this chances are you already know me! But if not,
 
