@@ -6,4 +6,4 @@ tags: ["photos"]
 draft: false
 ---
 
-<img src="./images/ProfessionalHeadshot.png", alt="image of me professionally shot">
+<img src="./ProfessionalHeadshot.png", alt="image of me professionally shot">
