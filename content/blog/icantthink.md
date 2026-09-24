@@ -25,6 +25,9 @@ I *want* to be a person.
 I love you, I love me.
 
 
+
+
 ---------------------------
 
 If you need immediate help for Suicide prevention or assistance call 988 or 911 to be connected with health professionals. Otherwise contact your mental health provider, general practitioner, or a trusted friend or family member and tell them how you have been feeling.
+
